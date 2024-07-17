@@ -1,2 +1,3 @@
-/REACT-SHOP-FRONTEND/node_modules/
-/SHOP-JS-BACKEND/node_modules/
+/SHOP-FRONTEND/node_modules/
+/.idea/
+/SHOP-BACKEND/node_modules/
